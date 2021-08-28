@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Luiz-Francalacci
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Backend development
+- 📫 How to reach me linkedin Luiz Felipe de Araujo Francalacci
